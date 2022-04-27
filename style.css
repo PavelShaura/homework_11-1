@@ -1,0 +1,15 @@
+.description {
+    background-color: black;
+    color: orange;
+}
+
+.info img {
+    border: solid 3px;
+    width: 300x;
+    height: 400px;
+
+}
+.info {
+    color: orange;
+    background-color: black;
+}
